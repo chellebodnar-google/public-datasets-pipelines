@@ -1,0 +1,5 @@
+artifact:
+  title: Covid PCR tests
+  description: For each day of data we compute the fraction of covid tests administered on that day, and the percentage of them that were positive.
+  vertical: government
+  tier: free
